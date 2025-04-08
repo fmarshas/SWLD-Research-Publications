@@ -1,0 +1,276 @@
+@prefix lod: <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl> .
+
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl> rdf:type owl:Ontology .
+
+#################################################################
+#    Datatypes
+#################################################################
+
+###  http://www.w3.org/2001/XMLSchema#date
+xsd:date rdf:type rdfs:Datatype .
+
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasAuthor
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasAuthor> rdf:type owl:ObjectProperty ;
+                                        rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#Publication> ;
+                                        rdfs:range <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#Author> .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasAuthorship
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasAuthorship> rdf:type owl:ObjectProperty ;
+                                            rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#Publication> ;
+                                            rdfs:range <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#Authorship> .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasDoiRelation
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasDoiRelation> rdf:type owl:ObjectProperty ;
+                                             rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#Authorship> ;
+                                             rdfs:range <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#Publication> .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#isAuthorOf
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#isAuthorOf> rdf:type owl:ObjectProperty ;
+                                         rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#Author> ;
+                                         rdfs:range <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#Publication> .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#abstractText
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#abstractText> rdf:type owl:DatatypeProperty ;
+                                           rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationIEEE> ;
+                                           rdfs:range xsd:string .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#access
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#access> rdf:type owl:DatatypeProperty ;
+                                     rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationDBLP> ;
+                                     rdfs:range xsd:string .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#accessType
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#accessType> rdf:type owl:DatatypeProperty ;
+                                         rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationIEEE> ;
+                                         rdfs:range xsd:string .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#citingPaperCount
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#citingPaperCount> rdf:type owl:DatatypeProperty ;
+                                               rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationIEEE> ;
+                                               rdfs:range xsd:integer .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#conferenceDate
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#conferenceDate> rdf:type owl:DatatypeProperty ;
+                                             rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationIEEE> ;
+                                             rdfs:range xsd:date .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#conferenceLocation
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#conferenceLocation> rdf:type owl:DatatypeProperty ;
+                                                 rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationIEEE> ;
+                                                 rdfs:range xsd:string .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#contentType
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#contentType> rdf:type owl:DatatypeProperty ;
+                                          rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationIEEE> ;
+                                          rdfs:range xsd:string .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#downloadCount
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#downloadCount> rdf:type owl:DatatypeProperty ;
+                                            rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationIEEE> ;
+                                            rdfs:range xsd:integer .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#endPage
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#endPage> rdf:type owl:DatatypeProperty ;
+                                      rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationIEEE> ;
+                                      rdfs:range xsd:integer .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasAffiliation
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasAffiliation> rdf:type owl:DatatypeProperty ;
+                                             rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#AuthorIEEE> ;
+                                             rdfs:range xsd:string .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasDOI
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasDOI> rdf:type owl:DatatypeProperty ;
+                                     rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#Publication> ;
+                                     rdfs:range xsd:string .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasName
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasName> rdf:type owl:DatatypeProperty ;
+                                      rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#AuthorDBLP> ,
+                                                  <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#AuthorIEEE> ;
+                                      rdfs:range xsd:string .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasPID
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasPID> rdf:type owl:DatatypeProperty ;
+                                     rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#AuthorDBLP> ;
+                                     rdfs:range xsd:string .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasTitle
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasTitle> rdf:type owl:DatatypeProperty ;
+                                       rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#Publication> ;
+                                       rdfs:range xsd:string .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasYear
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasYear> rdf:type owl:DatatypeProperty ;
+                                      rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#Publication> ;
+                                      rdfs:range xsd:integer .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#id
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#id> rdf:type owl:DatatypeProperty ;
+                                 rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationDBLP> ;
+                                 rdfs:range xsd:integer .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#insertDate
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#insertDate> rdf:type owl:DatatypeProperty ;
+                                         rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationIEEE> ;
+                                         rdfs:range xsd:date .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#isbn
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#isbn> rdf:type owl:DatatypeProperty ;
+                                   rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationIEEE> ;
+                                   rdfs:range xsd:string .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#key
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#key> rdf:type owl:DatatypeProperty ;
+                                  rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationDBLP> ;
+                                  rdfs:range xsd:string .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#pages
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#pages> rdf:type owl:DatatypeProperty ;
+                                    rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationDBLP> ;
+                                    rdfs:range xsd:string .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#publicationNumber
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#publicationNumber> rdf:type owl:DatatypeProperty ;
+                                                rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationIEEE> ;
+                                                rdfs:range xsd:integer .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#publisher
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#publisher> rdf:type owl:DatatypeProperty ;
+                                        rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationIEEE> ;
+                                        rdfs:range xsd:string .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#rank
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#rank> rdf:type owl:DatatypeProperty ;
+                                   rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationIEEE> ;
+                                   rdfs:range xsd:string .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#score
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#score> rdf:type owl:DatatypeProperty ;
+                                    rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationDBLP> ;
+                                    rdfs:range xsd:integer .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#startPage
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#startPage> rdf:type owl:DatatypeProperty ;
+                                        rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationIEEE> ;
+                                        rdfs:range xsd:integer .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#type
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#type> rdf:type owl:DatatypeProperty ;
+                                   rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationDBLP> ;
+                                   rdfs:range xsd:string .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#url
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#url> rdf:type owl:DatatypeProperty ;
+                                  rdfs:domain <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationDBLP> ;
+                                  rdfs:range xsd:string .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#Author
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#Author> rdf:type owl:Class ;
+                                     rdfs:subClassOf [ rdf:type owl:Restriction ;
+                                                       owl:onProperty <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasName> ;
+                                                       owl:cardinality "1"^^xsd:nonNegativeInteger
+                                                     ] .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#AuthorDBLP
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#AuthorDBLP> rdf:type owl:Class ;
+                                         rdfs:subClassOf <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#Author> ,
+                                                         [ rdf:type owl:Restriction ;
+                                                           owl:onProperty <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasPID> ;
+                                                           owl:someValuesFrom xsd:string
+                                                         ] ;
+                                         owl:disjointWith <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#AuthorIEEE> .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#AuthorIEEE
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#AuthorIEEE> rdf:type owl:Class ;
+                                         rdfs:subClassOf <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#Author> .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#Authorship
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#Authorship> rdf:type owl:Class .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#Publication
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#Publication> rdf:type owl:Class ;
+                                          rdfs:subClassOf [ rdf:type owl:Restriction ;
+                                                            owl:onProperty <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasAuthor> ;
+                                                            owl:minCardinality "1"^^xsd:nonNegativeInteger
+                                                          ] ,
+                                                          [ rdf:type owl:Restriction ;
+                                                            owl:onProperty <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasTitle> ;
+                                                            owl:cardinality "1"^^xsd:nonNegativeInteger
+                                                          ] ,
+                                                          [ rdf:type owl:Restriction ;
+                                                            owl:onProperty <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasYear> ;
+                                                            owl:cardinality "1"^^xsd:nonNegativeInteger
+                                                          ] .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationDBLP
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationDBLP> rdf:type owl:Class ;
+                                              rdfs:subClassOf <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#Publication> ;
+                                              owl:disjointWith <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationIEEE> .
+
+
+###  https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationIEEE
+<https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#PublicationIEEE> rdf:type owl:Class ;
+                                              rdfs:subClassOf <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#Publication> ,
+                                                              [ rdf:type owl:Restriction ;
+                                                                owl:onProperty <https://raw.githubusercontent.com/fmarshas/SWLD-Research-Publications/main/linked-data-project.ttl#hasDOI> ;
+                                                                owl:someValuesFrom xsd:string
+                                                              ] .
+
+
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi

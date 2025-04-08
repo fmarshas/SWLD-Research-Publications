@@ -1,0 +1,1003 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<http://dblp.org/2025/03/scientific/data/publication11187> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1809> .
+
+<http://dblp.org/2025/03/scientific/data/publication11194> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1573> .
+
+<http://dblp.org/2025/03/scientific/data/publication11197> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1899> .
+
+<http://dblp.org/2025/03/scientific/data/publication11201> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1478> .
+
+<http://dblp.org/2025/03/scientific/data/publication11205> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1874> .
+
+<http://dblp.org/2025/03/scientific/data/publication11207> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1708> .
+
+<http://dblp.org/2025/03/scientific/data/publication11211> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1272> .
+
+<http://dblp.org/2025/03/scientific/data/publication11213> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1989> .
+
+<http://dblp.org/2025/03/scientific/data/publication11215> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1779> .
+
+<http://dblp.org/2025/03/scientific/data/publication11223> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1805> .
+
+<http://dblp.org/2025/03/scientific/data/publication11226> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1701> .
+
+<http://dblp.org/2025/03/scientific/data/publication11410> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1008> .
+
+<http://dblp.org/2025/03/scientific/data/publication11530> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1742> .
+
+<http://dblp.org/2025/03/scientific/data/publication11554> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1939> .
+
+<http://dblp.org/2025/03/scientific/data/publication11572> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication699> .
+
+<http://dblp.org/2025/03/scientific/data/publication11587> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication808> .
+
+<http://dblp.org/2025/03/scientific/data/publication11592> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1769> .
+
+<http://dblp.org/2025/03/scientific/data/publication11613> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1044> .
+
+<http://dblp.org/2025/03/scientific/data/publication11637> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication646> .
+
+<http://dblp.org/2025/03/scientific/data/publication11642> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication997> .
+
+<http://dblp.org/2025/03/scientific/data/publication11643> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1719> .
+
+<http://dblp.org/2025/03/scientific/data/publication11645> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1894> .
+
+<http://dblp.org/2025/03/scientific/data/publication11649> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication806> .
+
+<http://dblp.org/2025/03/scientific/data/publication11654> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1840> .
+
+<http://dblp.org/2025/03/scientific/data/publication11660> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1510> .
+
+<http://dblp.org/2025/03/scientific/data/publication11666> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication836> .
+
+<http://dblp.org/2025/03/scientific/data/publication11668> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1114> .
+
+<http://dblp.org/2025/03/scientific/data/publication11670> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1903> .
+
+<http://dblp.org/2025/03/scientific/data/publication11672> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1834> .
+
+<http://dblp.org/2025/03/scientific/data/publication11682> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication911> .
+
+<http://dblp.org/2025/03/scientific/data/publication11686> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication890> .
+
+<http://dblp.org/2025/03/scientific/data/publication11708> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1857> .
+
+<http://dblp.org/2025/03/scientific/data/publication11709> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication912> .
+
+<http://dblp.org/2025/03/scientific/data/publication11736> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1812> .
+
+<http://dblp.org/2025/03/scientific/data/publication11739> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1780> .
+
+<http://dblp.org/2025/03/scientific/data/publication11746> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1010> .
+
+<http://dblp.org/2025/03/scientific/data/publication11748> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1711> .
+
+<http://dblp.org/2025/03/scientific/data/publication11762> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication928> .
+
+<http://dblp.org/2025/03/scientific/data/publication11861> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1798> .
+
+<http://dblp.org/2025/03/scientific/data/publication11863> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1026> .
+
+<http://dblp.org/2025/03/scientific/data/publication11864> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication799> .
+
+<http://dblp.org/2025/03/scientific/data/publication11880> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1866> .
+
+<http://dblp.org/2025/03/scientific/data/publication12247> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1886> .
+
+<http://dblp.org/2025/03/scientific/data/publication12249> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1715> .
+
+<http://dblp.org/2025/03/scientific/data/publication12276> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication2007> .
+
+<http://dblp.org/2025/03/scientific/data/publication125> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication2003> .
+
+<http://dblp.org/2025/03/scientific/data/publication14989> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1866> .
+
+<http://dblp.org/2025/03/scientific/data/publication15024> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1510> .
+
+<http://dblp.org/2025/03/scientific/data/publication15030> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1472> .
+
+<http://dblp.org/2025/03/scientific/data/publication15052> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication911> .
+
+<http://dblp.org/2025/03/scientific/data/publication15077> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1935> .
+
+<http://dblp.org/2025/03/scientific/data/publication15189> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1746> .
+
+<http://dblp.org/2025/03/scientific/data/publication15192> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1355> .
+
+<http://dblp.org/2025/03/scientific/data/publication15195> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1346> .
+
+<http://dblp.org/2025/03/scientific/data/publication15199> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication2006> .
+
+<http://dblp.org/2025/03/scientific/data/publication15201> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1760> .
+
+<http://dblp.org/2025/03/scientific/data/publication15202> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1882> .
+
+<http://dblp.org/2025/03/scientific/data/publication15259> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1819> .
+
+<http://dblp.org/2025/03/scientific/data/publication15265> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication499> .
+
+<http://dblp.org/2025/03/scientific/data/publication15323> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1738> .
+
+<http://dblp.org/2025/03/scientific/data/publication15477> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1811> .
+
+<http://dblp.org/2025/03/scientific/data/publication15478> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1472> .
+
+<http://dblp.org/2025/03/scientific/data/publication15482> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1385> .
+
+<http://dblp.org/2025/03/scientific/data/publication15488> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1678> .
+
+<http://dblp.org/2025/03/scientific/data/publication15490> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1529> .
+
+<http://dblp.org/2025/03/scientific/data/publication15496> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1421> .
+
+<http://dblp.org/2025/03/scientific/data/publication15511> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1658> .
+
+<http://dblp.org/2025/03/scientific/data/publication15515> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication812> .
+
+<http://dblp.org/2025/03/scientific/data/publication15610> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1724> .
+
+<http://dblp.org/2025/03/scientific/data/publication15613> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication748> .
+
+<http://dblp.org/2025/03/scientific/data/publication15614> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication532> .
+
+<http://dblp.org/2025/03/scientific/data/publication15617> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication527> .
+
+<http://dblp.org/2025/03/scientific/data/publication15620> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1934> .
+
+<http://dblp.org/2025/03/scientific/data/publication15630> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication859> .
+
+<http://dblp.org/2025/03/scientific/data/publication15642> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1753> .
+
+<http://dblp.org/2025/03/scientific/data/publication15644> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication789> .
+
+<http://dblp.org/2025/03/scientific/data/publication15651> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1783> .
+
+<http://dblp.org/2025/03/scientific/data/publication15654> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1922> .
+
+<http://dblp.org/2025/03/scientific/data/publication15659> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1802> .
+
+<http://dblp.org/2025/03/scientific/data/publication15662> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1771> .
+
+<http://dblp.org/2025/03/scientific/data/publication15665> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1890> .
+
+<http://dblp.org/2025/03/scientific/data/publication15667> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1743> .
+
+<http://dblp.org/2025/03/scientific/data/publication15670> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1610> .
+
+<http://dblp.org/2025/03/scientific/data/publication15675> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1782> .
+
+<http://dblp.org/2025/03/scientific/data/publication15680> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication525> .
+
+<http://dblp.org/2025/03/scientific/data/publication15683> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication914> .
+
+<http://dblp.org/2025/03/scientific/data/publication15686> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication228> .
+
+<http://dblp.org/2025/03/scientific/data/publication15688> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication205> .
+
+<http://dblp.org/2025/03/scientific/data/publication15689> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1873> .
+
+<http://dblp.org/2025/03/scientific/data/publication15693> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1489> .
+
+<http://dblp.org/2025/03/scientific/data/publication15697> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication678> .
+
+<http://dblp.org/2025/03/scientific/data/publication15700> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication783> .
+
+<http://dblp.org/2025/03/scientific/data/publication15703> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication897> .
+
+<http://dblp.org/2025/03/scientific/data/publication15708> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1730> .
+
+<http://dblp.org/2025/03/scientific/data/publication15710> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1679> .
+
+<http://dblp.org/2025/03/scientific/data/publication15713> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1878> .
+
+<http://dblp.org/2025/03/scientific/data/publication15716> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1693> .
+
+<http://dblp.org/2025/03/scientific/data/publication15719> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1710> .
+
+<http://dblp.org/2025/03/scientific/data/publication15722> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1927> .
+
+<http://dblp.org/2025/03/scientific/data/publication15726> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1813> .
+
+<http://dblp.org/2025/03/scientific/data/publication15734> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1041> .
+
+<http://dblp.org/2025/03/scientific/data/publication15738> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1639> .
+
+<http://dblp.org/2025/03/scientific/data/publication15742> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1889> .
+
+<http://dblp.org/2025/03/scientific/data/publication15746> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication398> .
+
+<http://dblp.org/2025/03/scientific/data/publication15767> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication892> .
+
+<http://dblp.org/2025/03/scientific/data/publication15768> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication758> .
+
+<http://dblp.org/2025/03/scientific/data/publication15769> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication586> .
+
+<http://dblp.org/2025/03/scientific/data/publication15770> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1097> .
+
+<http://dblp.org/2025/03/scientific/data/publication15834> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1093> .
+
+<http://dblp.org/2025/03/scientific/data/publication15852> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1497> .
+
+<http://dblp.org/2025/03/scientific/data/publication15855> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1349> .
+
+<http://dblp.org/2025/03/scientific/data/publication15858> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1642> .
+
+<http://dblp.org/2025/03/scientific/data/publication15861> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1586> .
+
+<http://dblp.org/2025/03/scientific/data/publication15863> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1842> .
+
+<http://dblp.org/2025/03/scientific/data/publication15874> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1419> .
+
+<http://dblp.org/2025/03/scientific/data/publication15880> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication666> .
+
+<http://dblp.org/2025/03/scientific/data/publication16010> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1656> .
+
+<http://dblp.org/2025/03/scientific/data/publication16031> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1077> .
+
+<http://dblp.org/2025/03/scientific/data/publication16034> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication583> .
+
+<http://dblp.org/2025/03/scientific/data/publication16047> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1620> .
+
+<http://dblp.org/2025/03/scientific/data/publication16051> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication712> .
+
+<http://dblp.org/2025/03/scientific/data/publication16057> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1028> .
+
+<http://dblp.org/2025/03/scientific/data/publication16059> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1707> .
+
+<http://dblp.org/2025/03/scientific/data/publication16065> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication955> .
+
+<http://dblp.org/2025/03/scientific/data/publication16070> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1107> .
+
+<http://dblp.org/2025/03/scientific/data/publication16075> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1767> .
+
+<http://dblp.org/2025/03/scientific/data/publication16077> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication801> .
+
+<http://dblp.org/2025/03/scientific/data/publication16305> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication787> .
+
+<http://dblp.org/2025/03/scientific/data/publication16306> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1578> .
+
+<http://dblp.org/2025/03/scientific/data/publication16328> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1249> .
+
+<http://dblp.org/2025/03/scientific/data/publication1652> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1322> .
+
+<http://dblp.org/2025/03/scientific/data/publication1661> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication474> .
+
+<http://dblp.org/2025/03/scientific/data/publication1662> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1994> .
+
+<http://dblp.org/2025/03/scientific/data/publication1663> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication82> .
+
+<http://dblp.org/2025/03/scientific/data/publication1670> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication126> .
+
+<http://dblp.org/2025/03/scientific/data/publication1694> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication130> .
+
+<http://dblp.org/2025/03/scientific/data/publication177> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1136> .
+
+<http://dblp.org/2025/03/scientific/data/publication19100> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1642> .
+
+<http://dblp.org/2025/03/scientific/data/publication19107> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1497> .
+
+<http://dblp.org/2025/03/scientific/data/publication19143> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication680> .
+
+<http://dblp.org/2025/03/scientific/data/publication19363> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication2230> .
+
+<http://dblp.org/2025/03/scientific/data/publication19368> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1313> .
+
+<http://dblp.org/2025/03/scientific/data/publication19377> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication658> .
+
+<http://dblp.org/2025/03/scientific/data/publication19535> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1531> .
+
+<http://dblp.org/2025/03/scientific/data/publication19537> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1493> .
+
+<http://dblp.org/2025/03/scientific/data/publication19539> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1185> .
+
+<http://dblp.org/2025/03/scientific/data/publication19564> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1232> .
+
+<http://dblp.org/2025/03/scientific/data/publication19582> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication962> .
+
+<http://dblp.org/2025/03/scientific/data/publication19600> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication680> .
+
+<http://dblp.org/2025/03/scientific/data/publication19602> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1795> .
+
+<http://dblp.org/2025/03/scientific/data/publication19632> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1368> .
+
+<http://dblp.org/2025/03/scientific/data/publication19650> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1919> .
+
+<http://dblp.org/2025/03/scientific/data/publication19669> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1521> .
+
+<http://dblp.org/2025/03/scientific/data/publication19686> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1542> .
+
+<http://dblp.org/2025/03/scientific/data/publication19690> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1647> .
+
+<http://dblp.org/2025/03/scientific/data/publication19694> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1614> .
+
+<http://dblp.org/2025/03/scientific/data/publication19699> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication467> .
+
+<http://dblp.org/2025/03/scientific/data/publication19703> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1736> .
+
+<http://dblp.org/2025/03/scientific/data/publication19705> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1560> .
+
+<http://dblp.org/2025/03/scientific/data/publication19708> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1674> .
+
+<http://dblp.org/2025/03/scientific/data/publication19711> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication478> .
+
+<http://dblp.org/2025/03/scientific/data/publication19713> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication419> .
+
+<http://dblp.org/2025/03/scientific/data/publication19723> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1604> .
+
+<http://dblp.org/2025/03/scientific/data/publication19726> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1527> .
+
+<http://dblp.org/2025/03/scientific/data/publication19730> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1633> .
+
+<http://dblp.org/2025/03/scientific/data/publication19734> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1384> .
+
+<http://dblp.org/2025/03/scientific/data/publication19739> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1575> .
+
+<http://dblp.org/2025/03/scientific/data/publication19747> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1814> .
+
+<http://dblp.org/2025/03/scientific/data/publication19750> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1831> .
+
+<http://dblp.org/2025/03/scientific/data/publication19755> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1302> .
+
+<http://dblp.org/2025/03/scientific/data/publication19760> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1778> .
+
+<http://dblp.org/2025/03/scientific/data/publication19761> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1803> .
+
+<http://dblp.org/2025/03/scientific/data/publication19768> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1106> .
+
+<http://dblp.org/2025/03/scientific/data/publication19818> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1644> .
+
+<http://dblp.org/2025/03/scientific/data/publication19844> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication734> .
+
+<http://dblp.org/2025/03/scientific/data/publication19867> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1327> .
+
+<http://dblp.org/2025/03/scientific/data/publication19875> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1534> .
+
+<http://dblp.org/2025/03/scientific/data/publication19879> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication809> .
+
+<http://dblp.org/2025/03/scientific/data/publication19886> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication618> .
+
+<http://dblp.org/2025/03/scientific/data/publication19889> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1792> .
+
+<http://dblp.org/2025/03/scientific/data/publication19905> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication776> .
+
+<http://dblp.org/2025/03/scientific/data/publication19985> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1637> .
+
+<http://dblp.org/2025/03/scientific/data/publication19988> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1570> .
+
+<http://dblp.org/2025/03/scientific/data/publication20018> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1581> .
+
+<http://dblp.org/2025/03/scientific/data/publication20024> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1737> .
+
+<http://dblp.org/2025/03/scientific/data/publication20029> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1011> .
+
+<http://dblp.org/2025/03/scientific/data/publication20030> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication797> .
+
+<http://dblp.org/2025/03/scientific/data/publication20040> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication509> .
+
+<http://dblp.org/2025/03/scientific/data/publication20041> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1714> .
+
+<http://dblp.org/2025/03/scientific/data/publication20043> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1861> .
+
+<http://dblp.org/2025/03/scientific/data/publication20047> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication590> .
+
+<http://dblp.org/2025/03/scientific/data/publication20053> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1933> .
+
+<http://dblp.org/2025/03/scientific/data/publication20057> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication978> .
+
+<http://dblp.org/2025/03/scientific/data/publication20061> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1752> .
+
+<http://dblp.org/2025/03/scientific/data/publication20066> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1846> .
+
+<http://dblp.org/2025/03/scientific/data/publication20261> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1850> .
+
+<http://dblp.org/2025/03/scientific/data/publication20264> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication659> .
+
+<http://dblp.org/2025/03/scientific/data/publication20266> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1879> .
+
+<http://dblp.org/2025/03/scientific/data/publication20272> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1888> .
+
+<http://dblp.org/2025/03/scientific/data/publication20275> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1561> .
+
+<http://dblp.org/2025/03/scientific/data/publication22924> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1540> .
+
+<http://dblp.org/2025/03/scientific/data/publication23049> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1187> .
+
+<http://dblp.org/2025/03/scientific/data/publication23050> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1279> .
+
+<http://dblp.org/2025/03/scientific/data/publication23055> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1400> .
+
+<http://dblp.org/2025/03/scientific/data/publication23058> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1830> .
+
+<http://dblp.org/2025/03/scientific/data/publication23064> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1759> .
+
+<http://dblp.org/2025/03/scientific/data/publication23066> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1974> .
+
+<http://dblp.org/2025/03/scientific/data/publication23178> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication258> .
+
+<http://dblp.org/2025/03/scientific/data/publication2320> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1690> .
+
+<http://dblp.org/2025/03/scientific/data/publication2327> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication115> .
+
+<http://dblp.org/2025/03/scientific/data/publication2335> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1143> .
+
+<http://dblp.org/2025/03/scientific/data/publication23350> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication247> .
+
+<http://dblp.org/2025/03/scientific/data/publication23356> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1233> .
+
+<http://dblp.org/2025/03/scientific/data/publication23359> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1435> .
+
+<http://dblp.org/2025/03/scientific/data/publication23361> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1168> .
+
+<http://dblp.org/2025/03/scientific/data/publication23365> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1255> .
+
+<http://dblp.org/2025/03/scientific/data/publication23368> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1481> .
+
+<http://dblp.org/2025/03/scientific/data/publication23372> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1268> .
+
+<http://dblp.org/2025/03/scientific/data/publication23374> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1329> .
+
+<http://dblp.org/2025/03/scientific/data/publication23380> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1535> .
+
+<http://dblp.org/2025/03/scientific/data/publication23385> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1366> .
+
+<http://dblp.org/2025/03/scientific/data/publication23388> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1471> .
+
+<http://dblp.org/2025/03/scientific/data/publication2339> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication127> .
+
+<http://dblp.org/2025/03/scientific/data/publication23466> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication964> .
+
+<http://dblp.org/2025/03/scientific/data/publication23478> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1612> .
+
+<http://dblp.org/2025/03/scientific/data/publication23479> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1080> .
+
+<http://dblp.org/2025/03/scientific/data/publication23482> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1675> .
+
+<http://dblp.org/2025/03/scientific/data/publication23484> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication850> .
+
+<http://dblp.org/2025/03/scientific/data/publication23485> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1938> .
+
+<http://dblp.org/2025/03/scientific/data/publication23524> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1228> .
+
+<http://dblp.org/2025/03/scientific/data/publication23528> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication643> .
+
+<http://dblp.org/2025/03/scientific/data/publication23530> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication371> .
+
+<http://dblp.org/2025/03/scientific/data/publication23533> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication283> .
+
+<http://dblp.org/2025/03/scientific/data/publication23535> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1444> .
+
+<http://dblp.org/2025/03/scientific/data/publication23538> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication904> .
+
+<http://dblp.org/2025/03/scientific/data/publication23547> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication531> .
+
+<http://dblp.org/2025/03/scientific/data/publication23549> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1608> .
+
+<http://dblp.org/2025/03/scientific/data/publication23552> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1524> .
+
+<http://dblp.org/2025/03/scientific/data/publication23557> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1731> .
+
+<http://dblp.org/2025/03/scientific/data/publication23564> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1797> .
+
+<http://dblp.org/2025/03/scientific/data/publication23569> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1598> .
+
+<http://dblp.org/2025/03/scientific/data/publication23571> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1431> .
+
+<http://dblp.org/2025/03/scientific/data/publication23574> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1806> .
+
+<http://dblp.org/2025/03/scientific/data/publication23575> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication870> .
+
+<http://dblp.org/2025/03/scientific/data/publication23576> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication616> .
+
+<http://dblp.org/2025/03/scientific/data/publication23578> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1367> .
+
+<http://dblp.org/2025/03/scientific/data/publication23579> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1464> .
+
+<http://dblp.org/2025/03/scientific/data/publication23582> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1525> .
+
+<http://dblp.org/2025/03/scientific/data/publication23607> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication356> .
+
+<http://dblp.org/2025/03/scientific/data/publication23610> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication543> .
+
+<http://dblp.org/2025/03/scientific/data/publication23613> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1503> .
+
+<http://dblp.org/2025/03/scientific/data/publication23620> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1611> .
+
+<http://dblp.org/2025/03/scientific/data/publication23622> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication379> .
+
+<http://dblp.org/2025/03/scientific/data/publication23624> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication847> .
+
+<http://dblp.org/2025/03/scientific/data/publication23658> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication335> .
+
+<http://dblp.org/2025/03/scientific/data/publication23659> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1422> .
+
+<http://dblp.org/2025/03/scientific/data/publication23744> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication241> .
+
+<http://dblp.org/2025/03/scientific/data/publication23780> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1630> .
+
+<http://dblp.org/2025/03/scientific/data/publication23783> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1864> .
+
+<http://dblp.org/2025/03/scientific/data/publication23791> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication405> .
+
+<http://dblp.org/2025/03/scientific/data/publication23793> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication494> .
+
+<http://dblp.org/2025/03/scientific/data/publication23797> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1627> .
+
+<http://dblp.org/2025/03/scientific/data/publication23801> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1508> .
+
+<http://dblp.org/2025/03/scientific/data/publication23803> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication552> .
+
+<http://dblp.org/2025/03/scientific/data/publication23808> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication898> .
+
+<http://dblp.org/2025/03/scientific/data/publication23813> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication551> .
+
+<http://dblp.org/2025/03/scientific/data/publication23816> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication818> .
+
+<http://dblp.org/2025/03/scientific/data/publication23820> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication907> .
+
+<http://dblp.org/2025/03/scientific/data/publication23821> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1323> .
+
+<http://dblp.org/2025/03/scientific/data/publication23825> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1027> .
+
+<http://dblp.org/2025/03/scientific/data/publication23831> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1490> .
+
+<http://dblp.org/2025/03/scientific/data/publication23845> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1942> .
+
+<http://dblp.org/2025/03/scientific/data/publication24016> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication311> .
+
+<http://dblp.org/2025/03/scientific/data/publication24018> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1794> .
+
+<http://dblp.org/2025/03/scientific/data/publication24022> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1915> .
+
+<http://dblp.org/2025/03/scientific/data/publication24034> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1577> .
+
+<http://dblp.org/2025/03/scientific/data/publication24045> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1283> .
+
+<http://dblp.org/2025/03/scientific/data/publication26700> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1207> .
+
+<http://dblp.org/2025/03/scientific/data/publication26709> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1422> .
+
+<http://dblp.org/2025/03/scientific/data/publication26725> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1471> .
+
+<http://dblp.org/2025/03/scientific/data/publication26727> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication335> .
+
+<http://dblp.org/2025/03/scientific/data/publication26846> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1338> .
+
+<http://dblp.org/2025/03/scientific/data/publication26848> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1311> .
+
+<http://dblp.org/2025/03/scientific/data/publication26932> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1205> .
+
+<http://dblp.org/2025/03/scientific/data/publication26936> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1537> .
+
+<http://dblp.org/2025/03/scientific/data/publication26939> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1284> .
+
+<http://dblp.org/2025/03/scientific/data/publication26967> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1335> .
+
+<http://dblp.org/2025/03/scientific/data/publication26973> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1596> .
+
+<http://dblp.org/2025/03/scientific/data/publication27074> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1030> .
+
+<http://dblp.org/2025/03/scientific/data/publication27128> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1291> .
+
+<http://dblp.org/2025/03/scientific/data/publication27192> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication178> .
+
+<http://dblp.org/2025/03/scientific/data/publication27210> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1265> .
+
+<http://dblp.org/2025/03/scientific/data/publication27227> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1379> .
+
+<http://dblp.org/2025/03/scientific/data/publication27254> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication202> .
+
+<http://dblp.org/2025/03/scientific/data/publication27259> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication155> .
+
+<http://dblp.org/2025/03/scientific/data/publication27260> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication441> .
+
+<http://dblp.org/2025/03/scientific/data/publication27263> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1296> .
+
+<http://dblp.org/2025/03/scientific/data/publication27269> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1827> .
+
+<http://dblp.org/2025/03/scientific/data/publication27286> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication296> .
+
+<http://dblp.org/2025/03/scientific/data/publication27289> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1664> .
+
+<http://dblp.org/2025/03/scientific/data/publication27291> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1404> .
+
+<http://dblp.org/2025/03/scientific/data/publication27294> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication190> .
+
+<http://dblp.org/2025/03/scientific/data/publication27296> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1325> .
+
+<http://dblp.org/2025/03/scientific/data/publication27300> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1289> .
+
+<http://dblp.org/2025/03/scientific/data/publication27305> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1937> .
+
+<http://dblp.org/2025/03/scientific/data/publication27309> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1429> .
+
+<http://dblp.org/2025/03/scientific/data/publication27310> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1607> .
+
+<http://dblp.org/2025/03/scientific/data/publication27316> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1448> .
+
+<http://dblp.org/2025/03/scientific/data/publication27322> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1774> .
+
+<http://dblp.org/2025/03/scientific/data/publication27326> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication444> .
+
+<http://dblp.org/2025/03/scientific/data/publication27333> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1442> .
+
+<http://dblp.org/2025/03/scientific/data/publication27335> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1600> .
+
+<http://dblp.org/2025/03/scientific/data/publication27342> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication407> .
+
+<http://dblp.org/2025/03/scientific/data/publication27347> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1602> .
+
+<http://dblp.org/2025/03/scientific/data/publication27349> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1293> .
+
+<http://dblp.org/2025/03/scientific/data/publication27365> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication515> .
+
+<http://dblp.org/2025/03/scientific/data/publication27368> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication289> .
+
+<http://dblp.org/2025/03/scientific/data/publication27375> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1892> .
+
+<http://dblp.org/2025/03/scientific/data/publication27454> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1720> .
+
+<http://dblp.org/2025/03/scientific/data/publication27605> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication473> .
+
+<http://dblp.org/2025/03/scientific/data/publication27608> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication627> .
+
+<http://dblp.org/2025/03/scientific/data/publication27611> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1454> .
+
+<http://dblp.org/2025/03/scientific/data/publication27612> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication523> .
+
+<http://dblp.org/2025/03/scientific/data/publication27618> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication252> .
+
+<http://dblp.org/2025/03/scientific/data/publication27621> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication389> .
+
+<http://dblp.org/2025/03/scientific/data/publication27624> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication260> .
+
+<http://dblp.org/2025/03/scientific/data/publication27625> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication657> .
+
+<http://dblp.org/2025/03/scientific/data/publication27627> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication998> .
+
+<http://dblp.org/2025/03/scientific/data/publication27629> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1450> .
+
+<http://dblp.org/2025/03/scientific/data/publication27632> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication434> .
+
+<http://dblp.org/2025/03/scientific/data/publication27636> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication603> .
+
+<http://dblp.org/2025/03/scientific/data/publication27641> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication591> .
+
+<http://dblp.org/2025/03/scientific/data/publication27646> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication480> .
+
+<http://dblp.org/2025/03/scientific/data/publication27650> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication971> .
+
+<http://dblp.org/2025/03/scientific/data/publication27652> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1682> .
+
+<http://dblp.org/2025/03/scientific/data/publication27659> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1128> .
+
+<http://dblp.org/2025/03/scientific/data/publication27662> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication217> .
+
+<http://dblp.org/2025/03/scientific/data/publication27670> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1592> .
+
+<http://dblp.org/2025/03/scientific/data/publication27675> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication351> .
+
+<http://dblp.org/2025/03/scientific/data/publication27876> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1207> .
+
+<http://dblp.org/2025/03/scientific/data/publication27879> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication306> .
+
+<http://dblp.org/2025/03/scientific/data/publication27882> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1868> .
+
+<http://dblp.org/2025/03/scientific/data/publication27886> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1263> .
+
+<http://dblp.org/2025/03/scientific/data/publication27910> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication751> .
+
+<http://dblp.org/2025/03/scientific/data/publication2979> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1943> .
+
+<http://dblp.org/2025/03/scientific/data/publication2988> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication74> .
+
+<http://dblp.org/2025/03/scientific/data/publication30676> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication723> .
+
+<http://dblp.org/2025/03/scientific/data/publication30677> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1992> .
+
+<http://dblp.org/2025/03/scientific/data/publication30781> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1694> .
+
+<http://dblp.org/2025/03/scientific/data/publication30860> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication671> .
+
+<http://dblp.org/2025/03/scientific/data/publication30897> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication569> .
+
+<http://dblp.org/2025/03/scientific/data/publication30911> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1670> .
+
+<http://dblp.org/2025/03/scientific/data/publication30940> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1096>,
+        <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1541> .
+
+<http://dblp.org/2025/03/scientific/data/publication30941> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1023> .
+
+<http://dblp.org/2025/03/scientific/data/publication30978> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1215> .
+
+<http://dblp.org/2025/03/scientific/data/publication30982> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1198> .
+
+<http://dblp.org/2025/03/scientific/data/publication30988> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication484> .
+
+<http://dblp.org/2025/03/scientific/data/publication30989> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1314>,
+        <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1474> .
+
+<http://dblp.org/2025/03/scientific/data/publication30994> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1314>,
+        <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1474> .
+
+<http://dblp.org/2025/03/scientific/data/publication30999> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1061> .
+
+<http://dblp.org/2025/03/scientific/data/publication31002> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1412> .
+
+<http://dblp.org/2025/03/scientific/data/publication31012> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication299> .
+
+<http://dblp.org/2025/03/scientific/data/publication31025> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1507> .
+
+<http://dblp.org/2025/03/scientific/data/publication31027> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication210> .
+
+<http://dblp.org/2025/03/scientific/data/publication31030> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1351> .
+
+<http://dblp.org/2025/03/scientific/data/publication31035> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1634> .
+
+<http://dblp.org/2025/03/scientific/data/publication31036> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1033> .
+
+<http://dblp.org/2025/03/scientific/data/publication31041> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1387> .
+
+<http://dblp.org/2025/03/scientific/data/publication31046> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1615> .
+
+<http://dblp.org/2025/03/scientific/data/publication31047> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1294> .
+
+<http://dblp.org/2025/03/scientific/data/publication31051> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication337> .
+
+<http://dblp.org/2025/03/scientific/data/publication31055> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1910> .
+
+<http://dblp.org/2025/03/scientific/data/publication31056> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1494> .
+
+<http://dblp.org/2025/03/scientific/data/publication31059> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1403> .
+
+<http://dblp.org/2025/03/scientific/data/publication31060> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication639> .
+
+<http://dblp.org/2025/03/scientific/data/publication31063> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication433> .
+
+<http://dblp.org/2025/03/scientific/data/publication31067> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1243> .
+
+<http://dblp.org/2025/03/scientific/data/publication31071> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication471> .
+
+<http://dblp.org/2025/03/scientific/data/publication31072> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1648> .
+
+<http://dblp.org/2025/03/scientific/data/publication31079> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1377> .
+
+<http://dblp.org/2025/03/scientific/data/publication31119> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication845> .
+
+<http://dblp.org/2025/03/scientific/data/publication31121> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication832> .
+
+<http://dblp.org/2025/03/scientific/data/publication31138> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication840> .
+
+<http://dblp.org/2025/03/scientific/data/publication31150> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1661> .
+
+<http://dblp.org/2025/03/scientific/data/publication31159> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication995> .
+
+<http://dblp.org/2025/03/scientific/data/publication31164> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication906> .
+
+<http://dblp.org/2025/03/scientific/data/publication31189> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1336> .
+
+<http://dblp.org/2025/03/scientific/data/publication31200> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication263> .
+
+<http://dblp.org/2025/03/scientific/data/publication31204> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1250> .
+
+<http://dblp.org/2025/03/scientific/data/publication31208> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication594> .
+
+<http://dblp.org/2025/03/scientific/data/publication31215> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication331> .
+
+<http://dblp.org/2025/03/scientific/data/publication31223> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1533> .
+
+<http://dblp.org/2025/03/scientific/data/publication31227> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication767> .
+
+<http://dblp.org/2025/03/scientific/data/publication31342> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1666> .
+
+<http://dblp.org/2025/03/scientific/data/publication31346> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication254> .
+
+<http://dblp.org/2025/03/scientific/data/publication31361> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication960> .
+
+<http://dblp.org/2025/03/scientific/data/publication31364> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication722> .
+
+<http://dblp.org/2025/03/scientific/data/publication31367> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication253> .
+
+<http://dblp.org/2025/03/scientific/data/publication31370> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication506> .
+
+<http://dblp.org/2025/03/scientific/data/publication31371> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication507> .
+
+<http://dblp.org/2025/03/scientific/data/publication31382> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication683> .
+
+<http://dblp.org/2025/03/scientific/data/publication31384> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1281> .
+
+<http://dblp.org/2025/03/scientific/data/publication31388> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication201> .
+
+<http://dblp.org/2025/03/scientific/data/publication31616> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1925> .
+
+<http://dblp.org/2025/03/scientific/data/publication31620> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1469> .
+
+<http://dblp.org/2025/03/scientific/data/publication31622> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication665> .
+
+<http://dblp.org/2025/03/scientific/data/publication31625> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication637> .
+
+<http://dblp.org/2025/03/scientific/data/publication3466> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1169> .
+
+<http://dblp.org/2025/03/scientific/data/publication3472> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication95> .
+
+<http://dblp.org/2025/03/scientific/data/publication3475> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication72> .
+
+<http://dblp.org/2025/03/scientific/data/publication3486> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication125> .
+
+<http://dblp.org/2025/03/scientific/data/publication4085> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1132> .
+
+<http://dblp.org/2025/03/scientific/data/publication4091> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication140> .
+
+<http://dblp.org/2025/03/scientific/data/publication4094> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1137> .
+
+<http://dblp.org/2025/03/scientific/data/publication4102> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication123> .
+
+<http://dblp.org/2025/03/scientific/data/publication46> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication128> .
+
+<http://dblp.org/2025/03/scientific/data/publication48> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication128> .
+
+<http://dblp.org/2025/03/scientific/data/publication5019> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication458> .
+
+<http://dblp.org/2025/03/scientific/data/publication5403> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1153> .
+
+<http://dblp.org/2025/03/scientific/data/publication5412> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1066> .
+
+<http://dblp.org/2025/03/scientific/data/publication5733> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1966> .
+
+<http://dblp.org/2025/03/scientific/data/publication5735> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1968> .
+
+<http://dblp.org/2025/03/scientific/data/publication5741> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication93> .
+
+<http://dblp.org/2025/03/scientific/data/publication6023> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication93> .
+
+<http://dblp.org/2025/03/scientific/data/publication6027> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication141> .
+
+<http://dblp.org/2025/03/scientific/data/publication6029> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication198> .
+
+<http://dblp.org/2025/03/scientific/data/publication6032> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1975> .
+
+<http://dblp.org/2025/03/scientific/data/publication6042> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1138> .
+
+<http://dblp.org/2025/03/scientific/data/publication6329> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication584> .
+
+<http://dblp.org/2025/03/scientific/data/publication6331> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1244> .
+
+<http://dblp.org/2025/03/scientific/data/publication6333> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication280> .
+
+<http://dblp.org/2025/03/scientific/data/publication6335> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1218> .
+
+<http://dblp.org/2025/03/scientific/data/publication6343> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication86> .
+
+<http://dblp.org/2025/03/scientific/data/publication6611> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication2> .
+
+<http://dblp.org/2025/03/scientific/data/publication6612> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication497> .
+
+<http://dblp.org/2025/03/scientific/data/publication6619> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1139> .
+
+<http://dblp.org/2025/03/scientific/data/publication6621> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1144> .
+
+<http://dblp.org/2025/03/scientific/data/publication6846> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication362> .
+
+<http://dblp.org/2025/03/scientific/data/publication6847> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication159> .
+
+<http://dblp.org/2025/03/scientific/data/publication6848> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication969> .
+
+<http://dblp.org/2025/03/scientific/data/publication6850> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication281> .
+
+<http://dblp.org/2025/03/scientific/data/publication6856> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication73> .
+
+<http://dblp.org/2025/03/scientific/data/publication6862> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication100> .
+
+<http://dblp.org/2025/03/scientific/data/publication6869> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication85> .
+
+<http://dblp.org/2025/03/scientific/data/publication7105> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1181> .
+
+<http://dblp.org/2025/03/scientific/data/publication7108> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1971> .
+
+<http://dblp.org/2025/03/scientific/data/publication7113> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication91> .
+
+<http://dblp.org/2025/03/scientific/data/publication7117> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication99> .
+
+<http://dblp.org/2025/03/scientific/data/publication7295> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication76> .
+
+<http://dblp.org/2025/03/scientific/data/publication7478> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication656> .
+
+<http://dblp.org/2025/03/scientific/data/publication7480> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication132> .
+
+<http://dblp.org/2025/03/scientific/data/publication7483> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1257> .
+
+<http://dblp.org/2025/03/scientific/data/publication7484> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication203> .
+
+<http://dblp.org/2025/03/scientific/data/publication7485> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1999> .
+
+<http://dblp.org/2025/03/scientific/data/publication7500> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication15>,
+        <http://www.ieeeLOD.org/2024/01/scientific/data#Publication17> .
+
+<http://dblp.org/2025/03/scientific/data/publication7501> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication92> .
+
+<http://dblp.org/2025/03/scientific/data/publication7677> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication14> .
+
+<http://dblp.org/2025/03/scientific/data/publication7702> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication15>,
+        <http://www.ieeeLOD.org/2024/01/scientific/data#Publication17> .
+
+<http://dblp.org/2025/03/scientific/data/publication7808> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1973> .
+
+<http://dblp.org/2025/03/scientific/data/publication7809> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1983> .
+
+<http://dblp.org/2025/03/scientific/data/publication7951> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1963> .
+
+<http://dblp.org/2025/03/scientific/data/publication8077> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication131> .
+
+<http://dblp.org/2025/03/scientific/data/publication8078> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1964> .
+
+<http://dblp.org/2025/03/scientific/data/publication8303> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication80> .
+
+<http://dblp.org/2025/03/scientific/data/publication8342> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1629> .
+
+<http://dblp.org/2025/03/scientific/data/publication8423> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication394> .
+
+<http://dblp.org/2025/03/scientific/data/publication8425> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication65> .
+
+<http://dblp.org/2025/03/scientific/data/publication8464> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1522> .
+
+<http://dblp.org/2025/03/scientific/data/publication8551> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1339> .
+
+<http://dblp.org/2025/03/scientific/data/publication8552> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1154> .
+
+<http://dblp.org/2025/03/scientific/data/publication8602> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1271> .
+
+<http://dblp.org/2025/03/scientific/data/publication8637> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1475> .
+
+<http://dblp.org/2025/03/scientific/data/publication8926> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication193> .
+
+<http://dblp.org/2025/03/scientific/data/publication8936> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1380> .
+
+<http://dblp.org/2025/03/scientific/data/publication8966> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1970> .
+
+<http://dblp.org/2025/03/scientific/data/publication9010> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1415> .
+
+<http://dblp.org/2025/03/scientific/data/publication9013> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication197> .
+
+<http://dblp.org/2025/03/scientific/data/publication9027> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication432> .
+
+<http://dblp.org/2025/03/scientific/data/publication9049> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication323> .
+
+<http://dblp.org/2025/03/scientific/data/publication9059> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication416> .
+
+<http://dblp.org/2025/03/scientific/data/publication9073> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication704> .
+
+<http://dblp.org/2025/03/scientific/data/publication9074> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1995> .
+
+<http://dblp.org/2025/03/scientific/data/publication9086> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication453> .
+
+<http://dblp.org/2025/03/scientific/data/publication9087> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication392> .
+
+<http://dblp.org/2025/03/scientific/data/publication9092> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication442> .
+
+<http://dblp.org/2025/03/scientific/data/publication9093> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1130> .
+
+<http://dblp.org/2025/03/scientific/data/publication9094> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication234> .
+
+<http://dblp.org/2025/03/scientific/data/publication9095> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1567> .
+
+<http://dblp.org/2025/03/scientific/data/publication9096> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1364> .
+
+<http://dblp.org/2025/03/scientific/data/publication9111> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1374> .
+
+<http://dblp.org/2025/03/scientific/data/publication9122> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication158> .
+
+<http://dblp.org/2025/03/scientific/data/publication9123> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication270> .
+
+<http://dblp.org/2025/03/scientific/data/publication9134> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1449> .
+
+<http://dblp.org/2025/03/scientific/data/publication9135> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1162> .
+
+<http://dblp.org/2025/03/scientific/data/publication9138> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication329> .
+
+<http://dblp.org/2025/03/scientific/data/publication9181> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1880> .
+
+<http://dblp.org/2025/03/scientific/data/publication9186> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1716> .
+
+<http://dblp.org/2025/03/scientific/data/publication9228> owl:sameAs <http://www.ieeeLOD.org/2024/01/scientific/data#Publication1776> .
+
